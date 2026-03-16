@@ -1,0 +1,5 @@
+// 必需会话组件
+spawn-sh-at-startup "qs -c noctalia-shell"
+
+// 如遇到需要管理员权限但无认证弹窗，可取消注释
+// spawn-at-startup "/usr/libexec/kf6/polkit-kde-authentication-agent-1"
