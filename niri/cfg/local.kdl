@@ -1,0 +1,6 @@
+// 机器私有覆盖项（建议只在这里改）
+// 示例：
+// output "eDP-1" {
+//     scale 1.25
+//     transform "normal"
+// }
